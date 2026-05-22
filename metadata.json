@@ -1,0 +1,6 @@
+{
+  "name": "Passwords Compresores",
+  "description": "Aplicación para guardar contraseñas y códigos de acceso de placas de control de compresores, organizada por marca, modelo de máquina y cliente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
